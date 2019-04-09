@@ -26,7 +26,7 @@ describe('ListPage', () => {
     expect(component).toBeTruthy();
   });
 
-  it('should have a list of 10 elements', () => {
+  it('should have a list of 15 elements', () => {
     listPage = fixture.nativeElement;
     const items = listPage.querySelectorAll('ion-item');
     expect(items.length).toEqual(10);

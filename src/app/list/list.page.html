@@ -1,27 +1,37 @@
 <ion-header>
   <ion-toolbar>
-    <ion-buttons slot="start">
-      <ion-menu-button></ion-menu-button>
-    </ion-buttons>
-    <ion-title>
-      List
-    </ion-title>
+     <ion-buttons slot="start">
+        <ion-menu-button></ion-menu-button>
+      </ion-buttons>
+    <ion-title>Skins</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-  <ion-list>
-    <ion-item *ngFor="let item of items">
-      <ion-icon [name]="item.icon" slot="start"></ion-icon>
-      {{item.title}}
-      <div class="item-note" slot="end">
-        {{item.note}}
-      </div>
-    </ion-item>
-  </ion-list>
-  <!--
-    <div *ngIf="selectedItem" padding>
-      You navigated here from <b>{{selectedItem.title }}</b>
-    </div>
-  -->
-</ion-content>
+    <ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content
+      pullingIcon="arrow-dropdown"
+      pullingText="Atualizar"
+      refreshingSpinner="circles"
+      refreshingText="Atualizando...">
+  </ion-refresher-content>
+  </ion-refresher>
+
+  <ion-searchbar 
+  [(ngModel)]="qualidade_name"
+  showCancelButton 
+  cancelButtonText="Cancelar" 
+  Placeholder="Localize skins" 
+  animated 
+  color="dark"
+  (change)="consultaSkins()"></ion-searchbar>
+
+  <ion-card class="welcome-card" *ngFor="let list of skins" routerLink="/details/{{list.id}}">
+    <ion-card-header>
+      <ion-card-subtitle>Nome {{list.nome}}</ion-card-subtitle>
+    </ion-card-header>
+    <ion-img [src]="list.image"></ion-img>
+    <ion-card-content>
+      <p>{{list.overview}}</p>
+    </ion-card-content>
+  </ion-card>

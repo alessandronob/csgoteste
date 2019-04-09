@@ -1,0 +1,147 @@
+{
+    "skins": [
+      {
+        "id": 1,
+        "nome":"Karambit (★) | Doppler Fase 2",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Karambit/Fase2/1/--Karambit_Doppler_FN_P2_0.026-600x600.jpg" ,
+        "qualidade": "Oculto ",
+        "exterior": "Nova de Fabrica",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        
+      },
+      {
+        "id": 2,
+        "nome":"AK-47 | Aquecimento de Aço",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/AK-47/mw/0/AK_47_Aquecimento_de_A%C3%A7o_MW_0.125-600x600.jpg" ,
+        "qualidade": "Secreto",
+        "exterior": "Pouco Usada",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+      },
+      {
+        "id": 3,
+        "nome":"Glock-18 (Lembrança) | Jardim Radioativo ",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Glock-18/FT/1/Glock_18_(Lembran%C3%A7a)_Jardim_Radioativo_FT_Edward-600x600.jpg" ,
+        "qualidade": "Restrito",
+        "exterior": "Testada em Campo",
+        "tipo": "Lembrança",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        
+      },
+      {
+        "id": 4,
+        "nome":"M4A4 | Grifo",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/M4A4/MW/2/M4A4_Grifo_MW-600x600.jpg" ,
+        "qualidade": "Restrito",
+        "exterior": "Pouco Usada",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        
+      },
+      {
+        "id": 5,
+        "nome":"Desert Eagle (StatTrak™) | Corintiano",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Desert%20Eagle/FT/Desert_Eagle_StatTrak_Corintiano_FT-1-600x600.jpg" ,
+        "qualidade": "Militar",
+        "exterior": "Testada em Campo",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+      },
+      {
+        "id": 6,
+        "nome":"MP9 (Lembrança) | Arma Esportiva FN Coldzera",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/MP9/FN/1/MP9_(Lembran%C3%A7a)_Arma_Esportiva_FN_Coldzera-600x600.jpg" ,
+        "qualidade": "Nivel Militar",
+        "exterior": "Nova de Fabrica",
+        "tipo": "Lembrança",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+      },
+      {
+        "id": 7,
+        "nome":"FAMAS | Gaiola de Proteção",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/FAMAS/+FAMAS_Gaiola_de_Prote%C3%A7%C3%A3o_FN-600x600.jpg" ,
+        "qualidade": "Oculto",
+        "exterior": "Nova de Fábrica",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+      },
+      {
+        "id": 8,
+        "nome":"MP5-SD | Fósforo",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/MP5/MP5_SD_Phosphor_MW-600x600.jpg" ,
+        "qualidade": "Secreto",
+        "exterior": "Pouco Usada",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        
+      },
+      {
+        "id": 9,
+        "nome":"USP-S | Planta Arquitetônica",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/USP-S/FN/USP-S_Planta_Arquitet%C3%B4nica_FN-24-600x600.jpg" ,
+        "qualidade": "Nivel Militar",
+        "exterior": "Nova de Fábrica",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+      },
+      {
+        "id": 10,
+        "nome":"SSG 08 | Big Iron",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/SSG%2008/FN/SSG_08_Big_Iron_FN-600x600.jpg" ,
+        "qualidade": "Secreto",
+        "exterior": "Nova de Fábrica",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+      },
+      {
+        "id": 11,
+        "nome":"P2000 | Elemental de Fogo",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/P2000/P2000_Elemental_de_Fogo_FN-600x600.jpg" ,
+        "qualidade": "Oculto",
+        "exterior": "Nova de Fábrica",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        
+      },
+      {
+        "id": 12,
+        "nome":"AWP | Sol em Leão",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/AWP/FN/AWP_Sol_em_Le%C3%A3o_FN-600x600.jpg" ,
+        "qualidade": "Nivel Industrial",
+        "exterior": "Nova de Fábrica",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+      },
+      {
+        "id": 13,
+        "nome":"Faca Gut Hook (★) | Doppler Gama Fase 4",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Gut/fase4/2/Faca_Gut_Hook_Doppler_Gama_FN_p4_0_026_2-600x600.jpg" ,
+        "qualidade": "Oculto",
+        "exterior": "Nova de Fabrica",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        
+      },
+      {
+        "id": 14,
+        "nome":"Faca Bowie (★) | Doppler Fase 3",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Bowie/3/Faca%20Bowie_Doppler_FN_P3_0.01_2-600x600.jpg" ,
+        "qualidade": "Oculto",
+        "exterior": "Nova de Fábrica",
+        "tipo": "Normal",
+        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        
+      },
+      {
+        "id": 15,
+        "nome":"Tec-9 (StatTrak™) | Reentrada",
+        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/TEC-9/FN/Tec-9_StatTrak_Reentrada_FN-600x600.jpg" ,
+        "qualidade": "Restrito",
+        "exterior": "Nova de Fabrica",
+        "tipo": "Stattrak",
+        "sobre": "safsdgdfgdfgdfgdfgdf"
+      }
+
+    ]
+  }
