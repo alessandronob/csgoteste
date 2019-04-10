@@ -11,6 +11,25 @@
 @import '~@ionic/angular/css/flex-utils.css';
 
 .welcome-card {
-    background-color:rgb(201, 189, 189);
+    background-color: #CDB5CD;
+  
+  }
+  
+  ion-app, ion-content, ion-footer, ion-header, ion-list, ion-menu, ion-menu-button, ion-menu-controller, ion-menu-toggle, ion-toggle, ion-toolbar {
+    --background: #050505  ;
+    --color: var(--ion-color-secondary-contrast,#f4f4f4);
+}
+p,ion-card-subtitle{
+    color: #f4f4f4;
+    
   }
 
+  ion-card-title{
+    --background:#050505  ;
+  }
+  
+  
+
+  
+
+  

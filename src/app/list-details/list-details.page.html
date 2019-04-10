@@ -1,17 +1,26 @@
+<ion-header>
+        <ion-toolbar>
+          <ion-buttons slot="start">
+            <ion-menu-button></ion-menu-button>
+          </ion-buttons>
+          <ion-title>
+                {{skins.nome}}
+          </ion-title>
+        </ion-toolbar>
+      </ion-header>
 <ion-content>
     <ion-card class="welcome-card">
         <ion-img [src]="skins.image"></ion-img>
         <ion-card-header>
-        <ion-card-title>{{skins.nome}}</ion-card-title><br>
-        <ion-card-title>{{skins.qualidade}}</ion-card-title><br>
-        <ion-card-title>{{skins.exterior}}</ion-card-title><br>
-        <ion-card-title>{{skins.tipo}}</ion-card-title><br>
-        <ion-card-title>{{skins.sobre}}</ion-card-title><br>
+       <!-- <ion-card-title>{{skins.nome}}</ion-card-title><br>-->
+        <ion-card-title>Qualidade: {{skins.qualidade}}</ion-card-title><br>
+        <ion-card-title>Exterior: {{skins.exterior}}</ion-card-title><br>
+        <ion-card-title>Tipo: {{skins.tipo}}</ion-card-title><br>
       </ion-card-header>
     </ion-card>      
     <ion-card>
         <ion-card-header>
-            <ion-card-title>Sobre</ion-card-title>
+            <ion-card-subtitle>Sobre:</ion-card-subtitle>
             <p>{{skins.sobre}}</p>
         </ion-card-header>
 </ion-card>

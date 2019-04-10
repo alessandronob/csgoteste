@@ -3,144 +3,144 @@
       {
         "id": 1,
         "nome":"Karambit (★) | Doppler Fase 2",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Karambit/Fase2/1/--Karambit_Doppler_FN_P2_0.026-600x600.jpg" ,
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20k_jkI7fUhFRB4MRij7r--YXygED6-EtrNmihLYaXIQ83Nw6C-1C6k-zvgMO7up7NmHs2uykl43fYnUG3hQYMMLINmYZu2g/" ,
         "qualidade": "Oculto ",
         "exterior": "Nova de Fabrica",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Com a sua lâmina curva imitando uma garra de tigre, a Karambit foi criada como parte da tradição marcial de silat do Sudeste Asiático. Esta faca geralmente é utilizada com um cabo invertido, com o dedo indicador no aro. Esta arma foi pintada com tintas metálicas pretas e prateadas usando marmorização média e depois revestida com um acabamento especial."
         
       },
       {
         "id": 2,
         "nome":"AK-47 | Aquecimento de Aço",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/AK-47/mw/0/AK_47_Aquecimento_de_A%C3%A7o_MW_0.125-600x600.jpg" ,
+        "image": "https://cdnstatic8.com/bleikstore.com/image/cache/catalog/ak%20aquecimento%20bs-min-600x695.png" ,
         "qualidade": "Secreto",
         "exterior": "Pouco Usada",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Poderoso e confiável, o AK-47 é um dos rifles de assalto mais populares do mundo. Ele é mais mortal em rajadas curtas e controladas. Esta arma recebeu aquecimento a altas temperaturas por carvão vegetal para aumentar a sua resistência. Um pouco de cor não faz mal"
       },
       {
         "id": 3,
-        "nome":"Glock-18 (Lembrança) | Jardim Radioativo ",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Glock-18/FT/1/Glock_18_(Lembran%C3%A7a)_Jardim_Radioativo_FT_Edward-600x600.jpg" ,
+        "nome":"Glock-18 | Jardim Radioativo ",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOh-zF_Jn4t1i1uRQ5fTvydYGQI1I2NVCD_lfsl-3s1J_utJmYnHFnuSkqtH7flhHh1BlKa-FxxavJlq0x5oI/360fx360f" ,
         "qualidade": "Restrito",
         "exterior": "Testada em Campo",
         "tipo": "Lembrança",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
-        
+        "sobre":" Este item é uma lembrança de Campeonato IEM Katowice de CS:GO de 2019. Obtido durante a partida de Fase de grupos entre compLexity Gaming e Astralis e autografado por Andreas Højsleth, que foi destaque da respectiva rodada.  A Glock-18 é uma boa pistola para começar a partida. É mais eficiente contra oponentes sem proteção e é capaz de disparar rajadas de três balas. A corrediça desta arma foi pintada com um padrão em verde neon, dando a aparência de toxicidade. Um produto da fissão nuclear  A Coleção Nuke de 2018"
+      
       },
       {
         "id": 4,
         "nome":"M4A4 | Grifo",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/M4A4/MW/2/M4A4_Grifo_MW-600x600.jpg" ,
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a1_howling_light_large.c64a9fc9fa04b5d10d4b1e200135e59285c8a77c.png" ,
         "qualidade": "Restrito",
         "exterior": "Pouco Usada",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Mais preciso e menos poderoso que o AK-47, o seu correspondente, o M4A4 é o rifle de assalto automático dos CTs. Esta arma foi pintada à mão com a ilustração de um grifo. Felix escolheu a dedo a sua equipe com operadores do mundo todo... e embora alguns questionem suas personalidades, nunca questionam os resultados    A Coleção Vanguarda"
         
       },
       {
         "id": 5,
-        "nome":"Desert Eagle (StatTrak™) | Corintiano",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Desert%20Eagle/FT/Desert_Eagle_StatTrak_Corintiano_FT-1-600x600.jpg" ,
+        "nome":"Desert Eagle | Corintiano",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_gs_deagle_exo_light_large.8bdc93f1b45efba187748065deff967eef8f2f2d.png" ,
         "qualidade": "Militar",
         "exterior": "Testada em Campo",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Tão cara quanto poderosa, a Desert Eagle é uma pistola icônica difícil de domar, mas surpreendentemente precisa a longa distância. Esta arma foi gravada a laser e possui uma empunhadura de couro. Proteger. Ter esperança. Confiar. Perseverar.  A Coleção do Revólver"
       },
       {
         "id": 6,
-        "nome":"MP9 (Lembrança) | Arma Esportiva FN Coldzera",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/MP9/FN/1/MP9_(Lembran%C3%A7a)_Arma_Esportiva_FN_Coldzera-600x600.jpg" ,
+        "nome":"MP9 | Arma Esportiva",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZu7OHNdQJO5du-gM7bwqb2MeuClTsCv8Ek2LiZ9t2giwa28hVlZGD0doSUIANqYV_U_gC2366x0j0WoURS/512fx384f" ,
         "qualidade": "Nivel Militar",
         "exterior": "Nova de Fabrica",
         "tipo": "Lembrança",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Este item é uma lembrança de Campeonato ELEAGUE Boston de CS:GO de 2018   Obtido durante a partida de Fase de grupos entre Cloud9 e Virtus.Pro e autografado por William Wierzba, que foi destaque da respectiva rodada.  Fabricada na Suíça, a submetralhadora de ponta MP9 é uma arma ergonômica de polímero optada por empresas de segurança privada. Esta arma foi pintada com um revestimento cromado e com detalhes de tinta com efeito de vermelho transparente. Automática. Sistemática. Hidromática.  A Coleção Mirage"
       },
       {
         "id": 7,
         "nome":"FAMAS | Gaiola de Proteção",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/FAMAS/+FAMAS_Gaiola_de_Prote%C3%A7%C3%A3o_FN-600x600.jpg" ,
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JhoGHm-7LP7LWnn9u5MRjjeyPoN-tilWxrkdoNjv0I4TBJw87YVrZr1W8x-m61J_vuJzIyXMx6HMr4WGdwUIVx7r5Nw/360fx360f" ,
         "qualidade": "Oculto",
         "exterior": "Nova de Fábrica",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Uma opção barata para jogadores com pouco dinheiro, o FAMAS preenche bem o nicho entre os rifles mais caros e as submetralhadoras menos eficientes. Esta arma recebeu decalques personalizados que parecem com um chassi de carro sujo de lama. Segurança em primeiro lugar A Coleção Gama II"
       },
       {
         "id": 8,
         "nome":"MP5-SD | Fósforo",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/MP5/MP5_SD_Phosphor_MW-600x600.jpg" ,
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_festival_drip_light_large.c71af0a784e5ecd6e5d5f2f71961be155e283cde.png" ,
         "qualidade": "Secreto",
         "exterior": "Pouco Usada",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Muito imitada mas nunca igualada, a icônica MP5 talvez seja a submetralhadora mais versátil e popular do mundo. Esta variante SD vem equipada com um silenciador integrado, deixando uma arma já formidável tão silenciosa quanto um sussurro. It has been custom painted by dripping neon pink, green, and teal paint onto its dark base. Stand out from the crowd  A Coleção da Zona de Perigo"
         
       },
       {
         "id": 9,
         "nome":"USP-S | Planta Arquitetônica",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/USP-S/FN/USP-S_Planta_Arquitet%C3%B4nica_FN-24-600x600.jpg" ,
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh-TLMbfEk3tD4ctlteTE8YXghWu4qgE7Nnf1d9CScQY3N1jTqFjqwezu08K57ZvJzSNnsid04nyLzUfmhkwaaOE6m7XAHjXf0ofS/360fx360f" ,
         "qualidade": "Nivel Militar",
         "exterior": "Nova de Fábrica",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Uma arma favorita dos fãs de Counter-Strike: Source, esta versão da pistola USP tem um silenciador removível que reduz o som e o coice dos disparos. Esta arma foi pintada à mão com tons de azul para parecer com uma planta arquitetônica. Às vezes os melhores planos fogem do planejado  A Coleção da Operação Hidra"
       },
       {
         "id": 10,
         "nome":"SSG 08 | Big Iron",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/SSG%2008/FN/SSG_08_Big_Iron_FN-600x600.jpg" ,
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgIWIn_n9MLrdn39I18l4jeHVyoD0mlOx5UI9Y2z0dYeRIVc_aFmDr1C8x-zm0Ja6vpzOmiA2siYi7HjZmxHlgRtSLrs4lKhxtCY/360fx360f" ,
         "qualidade": "Secreto",
         "exterior": "Nova de Fábrica",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": " O SSG08 é um rifle de precisão que não causa muito dano, mas é barato e tem grande poder de disparo, sendo ideal para confrontos a longa distância no início de rodadas. Esta arma foi pintada com um hidrográfico amarelo e laranja e depois levemente desgastada. Uma vitória com um porém ainda é uma vitória — Rona Sabri, estrela em ascensão A Coleção Sombria"
       },
       {
         "id": 11,
         "nome":"P2000 | Elemental de Fogo",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/P2000/P2000_Elemental_de_Fogo_FN-600x600.jpg" ,
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_fire_elemental_light_large.1e57d4d9f1c51e613c1923377aa55fab4b0ab1bc.png" ,
         "qualidade": "Oculto",
         "exterior": "Nova de Fábrica",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. Esta arma foi pintada com o desenho estilizado de uma criatura feita de fogo. Às vezes brincar com fogo é uma boa ideia"
         
       },
       {
         "id": 12,
         "nome":"AWP | Sol em Leão",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/AWP/FN/AWP_Sol_em_Le%C3%A3o_FN-600x600.jpg" ,
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OnHdTRD746JmImMn-O6ZezVlz4CvJYj2LqXpNmj0Vaw8kVvZG_7LNSScgJsZF_S-VO7w-e51Ij84srJoVgQJg/512fx384f" ,
         "qualidade": "Nivel Industrial",
         "exterior": "Nova de Fábrica",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "A infame AWP é conhecida por recompensar aqueles que arriscam, sendo famosa pelo funcionamento 'Um tiro, uma morte'. Esta arma foi pintada usando um hidrográfico com tema de zodíaco. Não será um mês fácil para os seus inimigos A Coleção Deuses e Monstros"
       },
       {
         "id": 13,
-        "nome":"Faca Gut Hook (★) | Doppler Gama Fase 4",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Gut/fase4/2/Faca_Gut_Hook_Doppler_Gama_FN_p4_0_026_2-600x600.jpg" ,
+        "nome":"Faca Gut (★) | Doppler ",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1ObcTjxP09i5hJCHkuXLI7PQhW4C18l4jeHVyoD0mlOx5UpkYmv0cY_DJgRoZVzSrFHqlO_rhZHu7p7LnXJk6HVz7XiOmxazgB1SLrs4HmoGyDM/360fx360f" ,
         "qualidade": "Oculto",
         "exterior": "Nova de Fabrica",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "O que mais chama a atenção em uma faca Gut Hook é o gancho no dorso da lâmina. Popularizada inicialmente para auxiliar em caças, a Gut Hook também é excelente para cortar materiais fibrosos como cordas, redes ou cintos de segurança com facilidade. Esta arma foi pintada com tintas metálicas pretas e prateadas usando marmorização média e depois revestida com um acabamento especial."
         
       },
       {
         "id": 14,
-        "nome":"Faca Bowie (★) | Doppler Fase 3",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/Bowie/3/Faca%20Bowie_Doppler_FN_P3_0.01_2-600x600.jpg" ,
+        "nome":"Faca Bowie (★) | Doppler ",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbukmRB-Ml0mNbR_Y3mjQeLpxo7Oy3tJtOVe1dsY1nUqAO_kua5hZXtuMybmHtivHZz5ivdl0DkhB4aaONp0eveFwvzsJ5Rmg/512fx384f" ,
         "qualidade": "Oculto",
         "exterior": "Nova de Fábrica",
         "tipo": "Normal",
-        "sobre": "dfgdfgfgsdfsdfsdfsdf"
+        "sobre": "Esta faca Bowie, com uma lâmina de dorso serrilhado e perfeitamente fixada em seu cabo, foi projetada para uso intensivo em situações brutais de sobrevivência. Esta arma foi pintada com tintas metálicas pretas e prateadas usando marmorização média e depois revestida com um acabamento especial. Perder-se na sua cor pode se provar fatal"
         
       },
       {
         "id": 15,
-        "nome":"Tec-9 (StatTrak™) | Reentrada",
-        "image": "http://www.neshastore.com/image/cache/data/CSGO-Imagens/TEC-9/FN/Tec-9_StatTrak_Reentrada_FN-600x600.jpg" ,
+        "nome":"Tec-9 | Reentrada",
+        "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_gs_tec9_supercharged_light_large.e3ebc20f10eae02790fe95703b6099acca1d1809.png" ,
         "qualidade": "Restrito",
         "exterior": "Nova de Fabrica",
         "tipo": "Stattrak",
-        "sobre": "safsdgdfgdfgdfgdfgdf"
+        "sobre": "Este item possui tecnologia StatTrak™, que contabiliza certas estatísticas quando equipado.  Este item contabiliza vítimas confirmadas. Uma pistola ideal para Terroristas que rotacionam pelo mapa, a Tec-9 é letal nos combates em ambientes confinados e possui um pente que porta bastante munição. O cano recebeu um decalque flamejante. Odeio estar certa o tempo todo — Carmen Cocinero, especialista em extrações  A III Coleção Cromática"
       }
 
     ]

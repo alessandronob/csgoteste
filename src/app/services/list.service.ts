@@ -20,8 +20,8 @@ export class ListService {
 
   constructor(private http: HttpClient) { }
 
-  getSkins():Observable<any>{
-    return this.http.get(`${this.URL_API}/skins`,httpOptions);
+  getSkins(param):Observable<any>{
+    return this.http.get(`${this.URL_API}/skins${param}`,httpOptions);
   }
   
   getSkinsId(id):Observable<any>{
